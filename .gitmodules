@@ -635,9 +635,9 @@
 	branch = .
 [submodule "fiber"]
 	path = libs/fiber
-	url = ../fiber.git
+	url = https://github.com/hpnkv/fiber
 	fetchRecurseSubmodules = on-demand
-	branch = .
+	branch = eglt-adjustments
 [submodule "process"]
 	path = libs/process
 	url = ../process.git
