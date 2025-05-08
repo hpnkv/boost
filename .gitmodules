@@ -637,7 +637,7 @@
 	path = libs/fiber
 	url = https://github.com/hpnkv/fiber.git
 	fetchRecurseSubmodules = on-demand
-	branch = eglt-adjustments
+	branch = .
 [submodule "process"]
 	path = libs/process
 	url = https://github.com/boostorg/process.git
